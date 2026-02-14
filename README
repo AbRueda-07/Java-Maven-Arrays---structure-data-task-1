@@ -1,0 +1,14 @@
+Proyecto: structure-data-task-1
+Descripción:
+Este proyecto fue creado usando Java 17 y Maven.
+
+El programa imprime un mensaje y realiza una multiplicación.
+
+Capturas incluidas:
+- java -version
+- mvn -v
+- ejecución del programa
+- ejecución del archivo jar
+- análisis del bytecode usando javap
+
+El proyecto compila y ejecuta correctamente.
